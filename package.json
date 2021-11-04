@@ -26,6 +26,7 @@
     "test": "mocha"
   },
   "dependencies": {
+    "is-even": "^1.0.0",
     "is-number": "^6.0.0"
   },
   "devDependencies": {
